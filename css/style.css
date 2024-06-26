@@ -1,4 +1,16 @@
 body {
-background-image: url("../images/cheetahback.jpeg")
+background-image: url("../images/cheetahback.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+backdrop-filter: blur(10px); 
+height: 700px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
 
 }
+
+
+ul{display: inline-block;}
