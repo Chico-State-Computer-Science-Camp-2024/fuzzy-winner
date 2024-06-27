@@ -3,13 +3,18 @@ background-image: url("../images/cheetahback.jpeg");
 background-repeat: no-repeat;
 background-size: cover;
 backdrop-filter: blur(10px); 
-height: 700px;
+height: 1000px;
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 
 
 
+}
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
 }
 
 
